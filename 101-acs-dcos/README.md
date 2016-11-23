@@ -2,7 +2,7 @@
 
 This Microsoft Azure template creates an [Azure Container Service](https://azure.microsoft.com/en-us/services/container-service/) cluster with a DC/OS orchestrator. There is also an option to use Docker Swarm as your orchestrator. 
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgdmuzzillo/Aragorn37365#@github.com/redbeestudios%2FAzure%2Fazure-quickstart-templates%2Fsuterra-dev%2F101-acs-dcos%2Fazuredeploy.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fsuterra-dev%2F101-acs-dcos%2Fazuredeploy.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
 
 Click the "Deploy to Azure" button and then follow the relevant walkthrough linked below, alternatively you can view our [ACS documentation](https://azure.microsoft.com/en-us/documentation/services/container-service/) on the Azure website.
 
